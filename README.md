@@ -4,7 +4,15 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+Computer+Engineering+Student+%F0%9F%92%BB;Always+learning+something+new+" alt="Typing SVG" />
 </p>
 <br>
-![Mateo Quispe - Computer Engineering Student](https://img.shields.io/badge/Ingeniero%20en%20Computaci%C3%B3n-Mateo%20Quispe-blueviolet?style=for-the-badge&logo=computer&logoColor=white)
+<h1 align="center">
+  👨‍💻 Mateo Quispe
+</h1>
+<p align="center">
+  🧠 Computer Engineering Student | 🇦🇷 Córdoba, Argentina <br>
+  🔧 Embedded Systems · Assembler · Java · Python · PIC Microcontrollers <br>
+  🚀 Building things that connect hardware + software
+</p>
+
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
