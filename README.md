@@ -1,6 +1,7 @@
 <p align="center">
-  ![Header](./github-header-image.png)
+  <img src="./github-header-image.png" alt="Header" />
 </p>
+
 
 <!--  -->
 <p align="center">
