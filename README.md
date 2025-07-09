@@ -6,7 +6,7 @@
 
 <!--  -->
 <p align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DC34AE9&width=435&lines=Computer+Engineering+Student;Always+learning+something+new)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DC34AE9&width=435&lines=Computer+Engineering+Student;Always+learning+something+new" alt="Typing SVG" /></a>
 <br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
