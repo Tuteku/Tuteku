@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="file:///C:/Users/mateo/Downloads/github-header-image.png />
+  <img src="./github-header-image.png" alt="Header" />
 </p>
+
 
 
 <!--  -->
