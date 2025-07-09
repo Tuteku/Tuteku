@@ -4,13 +4,8 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+Computer+Engineering+Student+%F0%9F%92%BB;Always+learning+something+new+" alt="Typing SVG" />
 </p>
 <br>
-<h1 align="center">
-  👨‍💻 Mateo Quispe
-</h1>
 <p align="center">
-  🧠 Computer Engineering Student | 🇦🇷 Córdoba, Argentina <br>
-  🔧 Embedded Systems · Assembler · Java · Python · PIC Microcontrollers <br>
-  🚀 Building things that connect hardware + software
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+I'm+Mateo+Quispe;Computer+Engineering+Student;Lover+of+hardware+%2B+software+integration;Assembler+%2F+C+%2F+Java+%2F+Python;Always+learning+%F0%9F%8C%B1" />
 </p>
 
 
