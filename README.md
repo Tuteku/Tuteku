@@ -63,7 +63,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" style="height: 25px;" />
   </a>
   <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
-    <img alt="PAQUETE OFFICE" src="https://img.shields.io/badge/PAQUETE%20OFFICE-0078D4.svg?style=flat&logo=microsoftoffice&logoColor=white" style="height: 32px;" />
+    <img alt="PAQUETE OFFICE" src="https://img.shields.io/badge/PAQUETE%20OFFICE-0078D4.svg?style=flat&logo=microsoftoffice&logoColor=white" style="height: 25px;" />
   </a>
   <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white" style="height: 25px;" />
