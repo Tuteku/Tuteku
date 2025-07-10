@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./github-header-image.png" alt="Header" />
 <!--  -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DC34AE9&width=435&lines=Computer+Engineering+Student;Always+learning+something+new" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DC34AE9&width=435&lines=Computer+Engineering+Student;Always+learning+something+new" alt="Typing SVG" /></a>
 <br>
 </p>
 
@@ -31,18 +31,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:32px;" />
   </a>
 </p>
-
-
-<p align="center">
- <img src="https://api.countapi.xyz/hit/Tuteku/Tuteku" alt="Count API" />
-
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Tuteku.Tuteku" alt="Visitor Badge"/>
-</p>
-
-
 
 ## 🛠️ My Skills/
 ### Programming languages
