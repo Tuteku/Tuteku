@@ -67,5 +67,13 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
     &emsp;
+  <p align="center">
+  <img src="https://img.shields.io/badge/Proteus-8.13-blue?style=flat&logo=appveyor&logoColor=white" alt="Proteus" style="height:32px; margin-right:10px;" />
+
+  <img src="https://img.shields.io/badge/PIPE-v4.3.0-9cf?style=flat&logo=codeforces&logoColor=black" alt="PIPE" style="height:32px; margin-right:10px;" />
+
+  <img src="https://img.shields.io/badge/Multisim-NI-yellow?style=flat&logo=ni&logoColor=black" alt="Multisim" style="height:32px;" />
+</p>
+
 </p>
 
