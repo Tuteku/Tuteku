@@ -41,7 +41,7 @@
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="height:25px; margin-right:30px;"/>
   </a>
   <a href="https://isocpp.org/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" style="height:32px; margin-right:25px;"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" style="height:25px; margin-right:25px;"/>
   </a> 
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
     <img alt="Assembly" src="https://img.shields.io/badge/Assembly-000000?style=flat&logo=assemblyscript&logoColor=white" style="height:25px; margin-right:30px;"/>
