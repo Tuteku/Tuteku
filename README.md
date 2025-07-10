@@ -32,6 +32,9 @@
   </a>
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/{TU_USUARIO}/count.svg)
+
+
 ## 🛠️ My Skills/
 ### Programming languages
 <p align="center"> 
