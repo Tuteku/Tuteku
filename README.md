@@ -29,19 +29,20 @@
 ### Programming languages
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
   </a>   
   <a href="https://isocpp.org/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   </a> 
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-    <img alt="Assembly" src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+    <img alt="Assembly" src="https://img.shields.io/badge/Assembly-000000?style=flat&logo=assemblyscript&logoColor=white" />
   </a>
   <a href="https://devdocs.io/c/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   </a>
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   </a>
 </p>
+
 
