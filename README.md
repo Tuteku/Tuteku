@@ -14,4 +14,6 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
--Student: I’m currently learning Computer Engineering at  [Faculty of Exact, Physical and Natural Sciences](https://fcefyn.unc.edu.ar) at [National University of Cordoba](https://www.unc.edu.ar).
+- 🎓I’m currently learning Computer Engineering at  [Faculty of Exact, Physical and Natural Sciences](https://fcefyn.unc.edu.ar) at [National University of Cordoba](https://www.unc.edu.ar).
+-  Interested in embedded systems, artificial intelligence and building projects that integrate hardware and software.
+  
