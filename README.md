@@ -32,12 +32,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://hits.dwyl.com/Tuteku/Tuteku.svg" alt="Hits Badge" />
-</p>
-
-
-
 ## 🛠️ My Skills/
 ### Programming languages
 <p align="center"> 
