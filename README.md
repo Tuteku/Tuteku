@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="height:32px; margin-right:10px;" />
   </a>
   <a href="https://wa.me/3512294599" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" style="height:32px; margin-right:10px;" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" style="height:32px; margin-right:30px;" />
   </a>
   <a href="https://www.linkedin.com/in/mateo-quispe-3a2804185/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:32px;" />
