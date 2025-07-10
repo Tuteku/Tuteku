@@ -17,18 +17,20 @@
   
 ## ![Connect with me](https://badgen.net/badge/CONNECT/WITH%20ME/green)
 
-<p align="center" style="margin: 0;">
-  <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" style="height: 25px;" />
+<p align="center">
+  <a href="mailto:mateo.quispe@mi.unc.edu.ar" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="height:32px; margin-right:10px;" />
   </a>
-  <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
-    <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?style=flat&logo=jetbrains&logoColor=white" style="height: 25px;" />
+  <a href="https://github.com/Tuteku" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="height:32px; margin-right:10px;" />
   </a>
-  <a href="#" style="display: inline-block; border-radius: 6px; overflow: hidden;">
-    <img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB%20X%20IDE-Microchip-red.svg?style=flat&logo=microchip&logoColor=white" style="height: 25px;" />
+  <a href="https://wa.me/3512294599" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" style="height:32px; margin-right:10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/mateo-quispe-3a2804185/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:32px;" />
   </a>
 </p>
-
 
 
 
@@ -79,5 +81,15 @@
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
-
+<p align="center" style="margin: 0;">
+  <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" style="height: 25px;" />
+  </a>
+  <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
+    <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?style=flat&logo=jetbrains&logoColor=white" style="height: 25px;" />
+  </a>
+  <a href="#" style="display: inline-block; border-radius: 6px; overflow: hidden;">
+    <img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB%20X%20IDE-Microchip-red.svg?style=flat&logo=microchip&logoColor=white" style="height: 25px;" />
+  </a>
+</p>
 
