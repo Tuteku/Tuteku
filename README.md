@@ -53,6 +53,10 @@
   </a>  
 </p>
 
-
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" style="height:32px;"/>
+  </a>
+</p>
 
 
