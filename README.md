@@ -32,7 +32,7 @@
   </a>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{TU_USUARIO}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Tuteku}/count.svg)
 
 
 ## 🛠️ My Skills/
