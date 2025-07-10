@@ -29,7 +29,7 @@
 ### <picture> <img src = "https://github.com/Tuteku/Tuteku/blob/main/Diseño%20sin%20título.gif" width = 40px>  </picture> Programming languages
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/c/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
