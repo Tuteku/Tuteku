@@ -38,7 +38,7 @@
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript" width=100px>
+    <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript" width=150px>
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
