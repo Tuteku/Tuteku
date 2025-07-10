@@ -32,6 +32,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Tuteku.Tuteku" alt="Visitor Badge" />
+</p>
+
+
 ## 🛠️ My Skills/
 ### Programming languages
 <p align="center"> 
