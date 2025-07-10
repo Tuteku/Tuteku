@@ -57,7 +57,7 @@
 ### <picture> <img src = "https://raw.githubusercontent.com/Tuteku/Tuteku/refs/heads/main/0_2hDtrnQa_8jv6S0K.webp" width = 70px>  </picture> Software & Tools
 <p align="center" style="margin: 0;">
   <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white" style="height: 32px;" />
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white" style="height: 25px;" />
   </a>
   <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" style="height: 32px;" />
