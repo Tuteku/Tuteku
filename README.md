@@ -55,25 +55,29 @@
 </p>
 
 ### <picture> <img src = "https://raw.githubusercontent.com/Tuteku/Tuteku/refs/heads/main/0_2hDtrnQa_8jv6S0K.webp" width = 70px>  </picture> Software & Tools
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/PAQUETE%20OFFICE-0078D4?style=for-the-badge&logo=microsoft&logoColor=white?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
-  <p align="center">
-  <img src="https://img.shields.io/badge/Proteus-8.13-blue?style=flat&logo=appveyor&logoColor=white" alt="Proteus" style="height:32px; margin-right:10px;" />
-
-  <img src="https://img.shields.io/badge/PIPE-v4.3.0-9cf?style=flat&logo=codeforces&logoColor=black" alt="PIPE" style="height:32px; margin-right:10px;" />
-
-  <img src="https://img.shields.io/badge/Multisim-NI-yellow?style=flat&logo=ni&logoColor=black" alt="Multisim" style="height:32px;" />
+<p align="center" style="margin: 0;">
+  <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white" style="height: 32px;" />
+  </a>
+  <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" style="height: 32px;" />
+  </a>
+  <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
+    <img alt="PAQUETE OFFICE" src="https://img.shields.io/badge/PAQUETE%20OFFICE-0078D4.svg?style=flat&logo=microsoftoffice&logoColor=white" style="height: 32px;" />
+  </a>
+  <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white" style="height: 32px;" />
+  </a>
+  <a href="#" style="display: inline-block; margin-right: 10px; border-radius: 6px; overflow: hidden;">
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white" style="height: 32px;" />
+  </a>
 </p>
 
+<p align="center" style="margin: 0; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Proteus-8.13-blue?style=flat&logo=appveyor&logoColor=white" alt="Proteus" style="height:32px; margin-right:10px; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/PIPE-v4.3.0-9cf?style=flat&logo=codeforces&logoColor=black" alt="PIPE" style="height:32px; margin-right:10px; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Multisim-NI-yellow?style=flat&logo=ni&logoColor=black" alt="Multisim" style="height:32px; border-radius:6px;" />
 </p>
+
+
 
