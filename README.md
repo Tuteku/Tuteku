@@ -15,4 +15,5 @@
 -  🚀I’m currently open for a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/11l1aj3zFS11Bpvv_kLjlmndxULTFII_2/view?usp=sharing).
 -  Always eager to learn, build, and take on new challenges
   
-## <picture> <img src="https://badgen.net/#badge/CONNECT/WITH%20ME" width="100px"> </picture> Connect with me
+## ![Connect with me](https://badgen.net/badge/CONNECT/WITH%20ME/green)
+
