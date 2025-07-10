@@ -34,7 +34,8 @@
 
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Tuteku&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false"/>
+ <img src="https://api.countapi.xyz/hit/Tuteku/Tuteku" alt="Count API" />
+
 </p>
 
 <p align="center">
