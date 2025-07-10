@@ -20,7 +20,7 @@
 <p align="center">
 	<a href="mailto:mateo.quispe@mi.unc.edu.ar"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width = 100px/></a>
 	<a href="https://github.com/Tuteku"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" width = 100px/></a>
-	<a href="https://wa.me/3512294599"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width = 150px/></a>
+	<a href="https://wa.me/3512294599"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width = 120px/></a>
 	<a href="https://www.linkedin.com/in/mateo-quispe-3a2804185/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width = 100px/></a>
 	
 </p>
