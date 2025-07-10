@@ -33,8 +33,9 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Tuteku.Tuteku" alt="Visitor Badge" />
+  <img src="https://hits.dwyl.com/Tuteku/Tuteku.svg" alt="Hits Badge" />
 </p>
+
 
 
 ## 🛠️ My Skills/
