@@ -26,7 +26,7 @@
 </p>
 
 ## 🛠️ My Skills/
-### <picture> <img src = "https://github.com/Tuteku/Tuteku/blob/main/Diseño%20sin%20título.gif" width = 40px>  </picture> Programming languages
+### Programming languages
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/c/" target="_blank"> 
