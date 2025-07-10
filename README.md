@@ -24,4 +24,5 @@
 	<a href="https://www.linkedin.com/in/mateo-quispe-3a2804185/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width = 100px/></a>
 	
 </p>
-![Custom Badge](https://badgen.net/badge/Hello/World/blue)
+[![Email](https://img.shields.io/badge/Email-mateoquispe.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateoquispe.dev@gmail.com)
+
