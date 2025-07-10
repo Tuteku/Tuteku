@@ -92,4 +92,4 @@
     <img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB%20X%20IDE-Microchip-red.svg?style=flat&logo=microchip&logoColor=white" style="height: 25px;" />
   </a>
 </p>
-
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
