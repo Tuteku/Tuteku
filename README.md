@@ -18,31 +18,38 @@
 ## ![Connect with me](https://badgen.net/badge/CONNECT/WITH%20ME/green)
 
 <p align="center">
-	<a href="mailto:mateo.quispe@mi.unc.edu.ar"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width = 100px/></a>
-	<a href="https://github.com/Tuteku"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" width = 100px/></a>
-	<a href="https://wa.me/3512294599"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width = 120px/></a>
-	<a href="https://www.linkedin.com/in/mateo-quispe-3a2804185/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width = 100px/></a>
-	
+  <a href="mailto:mateo.quispe@mi.unc.edu.ar" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="150px"/>
+  </a>
+  <a href="https://github.com/Tuteku" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="150px"/>
+  </a>
+  <a href="https://wa.me/3512294599" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" width="150px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mateo-quispe-3a2804185/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="150px"/>
+  </a>
 </p>
+
 
 ## 🛠️ My Skills/
 ### Programming languages
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" width="150px"/>
   </a>   
   <a href="https://isocpp.org/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="150px"/>
   </a> 
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-    <img alt="Assembly" src="https://img.shields.io/badge/Assembly-000000?style=flat&logo=assemblyscript&logoColor=white" />
+    <img alt="Assembly" src="https://img.shields.io/badge/Assembly-000000?style=flat&logo=assemblyscript&logoColor=white" width="150px"/>
   </a>
   <a href="https://devdocs.io/c/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" width="150px"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" width="150px"/>
   </a>
 </p>
-
 
